@@ -1,0 +1,5 @@
+myCustomVar:
+  authCode: xyz458
+  devName: Mattia Oleandro
+server:
+  port: 4500
